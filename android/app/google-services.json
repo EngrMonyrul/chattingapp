@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "358048828340",
+    "project_id": "chatapp-fcd22",
+    "storage_bucket": "chatapp-fcd22.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:358048828340:android:f03f60b57364c7008980e1",
+        "android_client_info": {
+          "package_name": "com.example.chattingapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAr0N72nezjoRl6EtYtgAk-Rn-dYnpIJ7k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
